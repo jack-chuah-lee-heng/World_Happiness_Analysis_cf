@@ -25,8 +25,3 @@ The happiness scores and rankings use data from the Gallup World Poll. The score
 
 The data for this project is an open-source data downloaded from:
 [Download World Happiness Dataset](https://www.kaggle.com/datasets/unsdsn/world-happiness)
-
-
-## Summary and Recommendations
-
-The summary and recommendations can be found in the GitHuB folder. 
