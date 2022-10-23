@@ -25,3 +25,29 @@ The happiness scores and rankings use data from the Gallup World Poll. The score
 
 The data for this project is an open-source data downloaded from:
 [Download World Happiness Dataset](https://www.kaggle.com/datasets/unsdsn/world-happiness)
+
+## Conclusion & Recommendation
+
+Most Happiest Countries came from Scandinava - Finland, Denmark, Norway, Iceland and Switzerland. 
+
+Australia and New Zealand both sat at the happiest countries since 2015. 
+
+The happiness countries count in America Region dropped after year 2019. 
+
+Asia’s happiness score was sitting at lower happiness range and the countries count in lower happiness raised in 2019. 
+
+Economy GDP, Health Life Expectancy and Social Support are the main factors contribute to the happiest environment. A higher standard of living and health
+life expectancy, which normally leads to happier people. This is evident when looking at the world’s happiest countries. These countries tend to have strong 
+social support systems, which also contribute to the happiness of its citizen.This is because social support provides a sense of security and belonging, both
+are essential for happiness. 
+
+Freedom, Trust, Generosity, Dystopia Residual have weak relationship with the happiness score.  
+
+To collect more data set from 2020 to 2022, to have a better understanding to the current happiness score especially to capture the happiness score during the Covid-19 and after the Covid-19
+
+The data set could be sample bias. Suggest to collect the data set in a wider population. 
+
+## Presentation
+
+The presentation for this project can be found [Here](
+[Download World Happiness Dataset](https://public.tableau.com/app/profile/lee.heng.chuah/viz/WorldHappinessAnalysis_16663350277090/Story?publish=yes)
