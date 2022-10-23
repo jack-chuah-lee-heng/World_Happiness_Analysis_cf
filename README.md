@@ -49,5 +49,4 @@ The data set could be sample bias. Suggest to collect the data set in a wider po
 
 ## Presentation
 
-The presentation for this project can be found [Here]
-(https://public.tableau.com/app/profile/lee.heng.chuah/viz/WorldHappinessAnalysis_16663350277090/Story?publish=yes)
+The presentation for this project can be found: [Here](https://public.tableau.com/app/profile/lee.heng.chuah/viz/WorldHappinessAnalysis_16663350277090/Story?publish=yes)
